@@ -1,0 +1,61 @@
+title: Shitpost
+set_flair: Shitpost
+---
+title: Meme
+set_flair: Meme
+---
+title: Noticia
+set_flair: Noticia
+---
+title: Evento
+set_flair: Evento
+---
+title: Meta
+set_flair: Meta
+---
+title: Deportes
+set_flair: Deportes
+---
+title: Pregunta
+set_flair: Pregunta
+---
+title: [Discusión, Discusion]
+set_flair: Discusión
+---
+type: submission
+title+body (includes): 
+    - " marijuana "
+    - " weed "
+    - " joint"
+    - " pot "
+    - " cannabis "
+    - " ganjah "
+    - " drug "
+    - " dope "
+    - " lsd "
+    - " cocaine "
+    - " extasis "
+    - " mdma "
+    - " methamphetamine "
+    - " ketamine "
+comment: |
+    **Friendly reminder:** it is not allowed to comment on how and where to acquire drugs illegally.
+    Let's try and keep our discussions within the legal boundaries.
+---
+type: submission
+title+body (includes): 
+    - " marihuana "
+    - " mota "
+    - " porro "
+    - " faso "
+    - " falopa "
+    - " droga "
+    - " merca "
+    - " cocaina "
+    - " cocaína "
+    - " éxtasis "
+    - " metanfetamina "
+    - " ketamina "
+comment: |
+    **Friendly reminder:** no está permitido comentar cómo y dónde adquirir drogas de forma ilegal.
+    Intentemos mantener nuestras discusiones dentro del marco legal.
