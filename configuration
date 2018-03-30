@@ -23,22 +23,21 @@ title: [Discusión, Discusion]
 set_flair: Discusión
 ---
 type: submission
-title+body (includes): 
-    - " marijuana "
-    - " weed "
-    - " joint"
-    - " pot "
-    - " cannabis "
-    - " ganjah "
-    - " drug "
-    - " drugs "
-    - " dope "
-    - " lsd "
-    - " cocaine "
-    - " extasis "
-    - " mdma "
-    - " methamphetamine "
-    - " ketamine "
+title+body (includes, regex): 
+    - "\bmarijuanab"
+    - "\bweed\b"
+    - "\bjoint[s]*\b"
+    - "\bpot\b"
+    - "\bcannabis\b"
+    - "\bganjah\b"
+    - "\bdrug[s]*\b"
+    - "\bdope\b"
+    - "\blsd\b"
+    - "\bcocaine\b"
+    - "\bextasis\b"
+    - "\bmdma\b"
+    - "\bmethamphetamine\b"
+    - "\bketamine\b"
 comment: |
     **Friendly reminder:** it is not allowed to comment on how and where to acquire drugs illegally.
     Let's try and keep our discussions within the legal boundaries.
@@ -47,19 +46,18 @@ comment: |
 
 ---
 type: submission
-title+body (includes): 
-    - " marihuana "
-    - " mota "
-    - " porro "
-    - " faso "
-    - " falopa "
-    - " droga "
-    - " merca "
-    - " cocaina "
-    - " cocaína "
-    - " éxtasis "
-    - " metanfetamina "
-    - " ketamina "
+title+body (includes, regex): 
+    - "\bmarihuana\b"
+    - "\bmota\b"
+    - "\bporr(it)?o[s]*\b"
+    - "\bfas(it)?o\b"
+    - "\bfalopa\b"
+    - "\bdroga[s]?\b"
+    - "\bmer[ck]a\b"
+    - "\bcoca[ií]na\b"
+    - "\béxtasis\b"
+    - "\bmetanfetamina[s]*\b"
+    - "\bketa(mina)?[s]*\b"
 comment: |
     **Friendly reminder:** no está permitido comentar cómo y dónde adquirir drogas de forma ilegal.
     Intentemos mantener nuestras discusiones dentro del marco legal.
