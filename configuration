@@ -36,7 +36,7 @@ title+body (includes, regex):
     - "\bcocaine\b"
     - "\bextasis\b"
     - "\bmdma\b"
-    - "\bmethamphetamine\b"
+    - "\bmeth(amphetamine)?\b"
     - "\bketamine\b"
 comment: |
     **Friendly reminder:** it is not allowed to comment on how and where to acquire drugs illegally.
@@ -56,7 +56,7 @@ title+body (includes, regex):
     - "\bmer[ck]a\b"
     - "\bcoca[ií]na\b"
     - "\béxtasis\b"
-    - "\bmetanfetamina[s]*\b"
+    - "\b(met)?anfetamina[s]*\b"
     - "\bketa(mina)?[s]*\b"
 comment: |
     **Friendly reminder:** no está permitido comentar cómo y dónde adquirir drogas de forma ilegal.
