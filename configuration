@@ -7,7 +7,7 @@
     title: Noticia
     set_flair: Noticia
 ---
-    domain: |
+    domain:
         - "elobservador.com.uy"
         - "elpais.com.uy"
         - "republica.com.uy"
@@ -32,7 +32,7 @@
     title: [Deportes, Deporte]
     set_flair: Deportes
 ---
-    domain: |
+    domain:
         - "referi.uy"
         - "espn.com"
         - "futbol.com.uy"
