@@ -1,66 +1,66 @@
-title: Shitpost
-set_flair: Shitpost
+    title: Shitpost
+    set_flair: Shitpost
 ---
-title: Meme
-set_flair: Meme
+    title: Meme
+    set_flair: Meme
 ---
-title: Noticia
-set_flair: Noticia
+    title: Noticia
+    set_flair: Noticia
 ---
-title: Evento
-set_flair: Evento
+    title: Evento
+    set_flair: Evento
 ---
-title: Meta
-set_flair: Meta
+    title: Meta
+    set_flair: Meta
 ---
-title: Deportes
-set_flair: Deportes
+    title: Deportes
+    set_flair: Deportes
 ---
-title: Pregunta
-set_flair: Pregunta
+    title: Pregunta
+    set_flair: Pregunta
 ---
-title: [Discusión, Discusion]
-set_flair: Discusión
+    title: [Discusión, Discusion]
+    set_flair: Discusión
 ---
-type: submission
-title+body (includes, regex): 
-    - "\bmarijuanab"
-    - "\bweed\b"
-    - "\bjoint[s]*\b"
-    - "\bpot\b"
-    - "\bcannabis\b"
-    - "\bganjah\b"
-    - "\bdrug[s]*\b"
-    - "\bdope\b"
-    - "\blsd\b"
-    - "\bcocaine\b"
-    - "\bextasis\b"
-    - "\bmdma\b"
-    - "\bmeth(amphetamine)?\b"
-    - "\bketamine\b"
-    - "\bpopper[s]*\b"
-comment: |
-    **Friendly reminder:** it is not allowed to comment on how and where to acquire drugs illegally.
-    Let's try and keep our discussions within the legal boundaries.
+    type: submission
+    title+body (includes, regex): 
+        - "\bmarijuanab"
+        - "\bweed\b"
+        - "\bjoint[s]*\b"
+        - "\bpot\b"
+        - "\bcannabis\b"
+        - "\bganjah\b"
+        - "\bdrug[s]*\b"
+        - "\bdope\b"
+        - "\blsd\b"
+        - "\bcocaine\b"
+        - "\bextasis\b"
+        - "\bmdma\b"
+        - "\bmeth(amphetamine)?\b"
+        - "\bketamine\b"
+        - "\bpopper[s]*\b"
+    comment: |
+        **Friendly reminder:** it is not allowed to comment on how and where to acquire drugs illegally.
+        Let's try and keep our discussions within the legal boundaries.
 
-    [Source.](https://github.com/dirkgentle/uruguay_automod/)
+        [Source.](https://github.com/dirkgentle/uruguay_automod/)
 
 ---
-type: submission
-title+body (includes, regex): 
-    - "\bmarihuana\b"
-    - "\bmota\b"
-    - "\bporr(it)?o[s]*\b"
-    - "\bfas(it)?o\b"
-    - "\bfalopa\b"
-    - "\bdroga[s]?\b"
-    - "\bmer[ck]a\b"
-    - "\bcoca[ií]na\b"
-    - "\béxtasis\b"
-    - "\b(met)?anfeta(mina)?[s]*\b"
-    - "\bketa(mina)?[s]*\b"
-comment: |
-    **Friendly reminder:** no está permitido comentar cómo y dónde adquirir drogas de forma ilegal.
-    Intentemos mantener nuestras discusiones dentro del marco legal.
+    type: submission
+    title+body (includes, regex): 
+        - "\bmarihuana\b"
+        - "\bmota\b"
+        - "\bporr(it)?o[s]*\b"
+        - "\bfas(it)?o\b"
+        - "\bfalopa\b"
+        - "\bdroga[s]?\b"
+        - "\bmer[ck]a\b"
+        - "\bcoca[ií]na\b"
+        - "\béxtasis\b"
+        - "\b(met)?anfeta(mina)?[s]*\b"
+        - "\bketa(mina)?[s]*\b"
+    comment: |
+        **Friendly reminder:** no está permitido comentar cómo y dónde adquirir drogas de forma ilegal.
+        Intentemos mantener nuestras discusiones dentro del marco legal.
 
-    [Source.](https://github.com/dirkgentle/uruguay_automod/)
+        [Source.](https://github.com/dirkgentle/uruguay_automod/)
