@@ -7,13 +7,35 @@
     title: Noticia
     set_flair: Noticia
 ---
+    domain: |
+        - "elobservador.com.uy"
+        - "elpais.com.uy"
+        - "republica.com.uy"
+        - "lr21.com.uy"
+        - "teledoce.com"
+        - "telenoche.com.uy"
+        - "montevideo.com.uy"
+        - "ecos.la"
+        - "tvshow.com.uy"
+        - "subrayado.com.uy"
+        - "radiomontecarlo.com.uy"
+        - "180.com.uy"
+        - "cromo.com.uy"
+    set_flair: Noticia
+---
     title: Evento
     set_flair: Evento
 ---
     title: Meta
     set_flair: Meta
 ---
-    title: Deportes
+    title: [Deportes, Deporte]
+    set_flair: Deportes
+---
+    domain: |
+        - "referi.uy"
+        - "espn.com"
+        - "futbol.com.uy"
     set_flair: Deportes
 ---
     title: Pregunta
