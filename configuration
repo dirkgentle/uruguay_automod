@@ -22,6 +22,11 @@
         - "180.com.uy"
         - "cromo.com.uy"
         - "ladiaria.com.uy"
+        - "espectador.com"
+        - "uypress.net"
+        - "airbag.uy"
+        - "ft.com"
+        - "torrentfreak.com"
     set_flair: Noticia
 ---
     title: Evento
@@ -37,6 +42,7 @@
         - "referi.uy"
         - "espn.com"
         - "futbol.com.uy"
+        - "ovaciondigital.com.uy"
     set_flair: Deportes
 ---
     title: Pregunta
