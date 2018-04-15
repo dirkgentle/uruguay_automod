@@ -53,7 +53,7 @@
 ---
     type: submission
     title+body (regex): 
-        - \bmarijuanab
+        - \bmarijuana\b
         - \bweed\b
         - \bjoint[s]*\b
         - \bpot\b
