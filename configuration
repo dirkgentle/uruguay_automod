@@ -28,6 +28,8 @@
         - "ft.com"
         - "torrentfreak.com"
         - "infobae.com"
+        - "tdn.uy"
+        - "theglobeandmail.com"
     set_flair: Noticia
 ---
     title: Evento
@@ -44,6 +46,8 @@
         - "espn.com"
         - "futbol.com.uy"
         - "ovaciondigital.com.uy"
+        - "elgrafico.com.ar"
+        - "thelaziali.com"
     set_flair: Deportes
 ---
     title: Pregunta
