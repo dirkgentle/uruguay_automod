@@ -8,28 +8,29 @@
     set_flair: Noticia
 ---
     domain:
+        - "180.com.uy"
+        - "airbag.uy"
+        - "busqueda.com.uy"
+        - "cromo.com.uy"
+        - "ecos.la"
         - "elobservador.com.uy"
         - "elpais.com.uy"
-        - "republica.com.uy"
+        - "eltelescopio.com.uy"
+        - "espectador.com"
+        - "ft.com"
+        - "infobae.com"
+        - "ladiaria.com.uy"
         - "lr21.com.uy"
+        - "montevideo.com.uy"
+        - "portaltnu.com.uy"
+        - "radiomontecarlo.com.uy"
+        - "republica.com.uy"
+        - "subrayado.com.uy"
         - "teledoce.com"
         - "telenoche.com.uy"
-        - "montevideo.com.uy"
-        - "ecos.la"
-        - "tvshow.com.uy"
-        - "subrayado.com.uy"
-        - "radiomontecarlo.com.uy"
-        - "180.com.uy"
-        - "cromo.com.uy"
-        - "ladiaria.com.uy"
-        - "espectador.com"
-        - "uypress.net"
-        - "airbag.uy"
-        - "ft.com"
         - "torrentfreak.com"
-        - "infobae.com"
-        - "eltelescopio.com.uy"
-        - "busqueda.com.uy"
+        - "tvshow.com.uy"
+        - "uypress.net"
     set_flair: Noticia
 ---
     title: Evento
@@ -42,11 +43,11 @@
     set_flair: Deportes
 ---
     domain:
-        - "referi.uy"
+        - "depor.com"
         - "espn.com"
         - "futbol.com.uy"
         - "ovaciondigital.com.uy"
-        - "depor.com"
+        - "referi.uy"
         - "thelaziali.com"
     set_flair: Deportes
 ---
