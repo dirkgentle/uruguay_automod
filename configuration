@@ -89,3 +89,7 @@
     title: [Discusión, Discusion]
     set_flair: Discusión
 ---
+    type: submission
+    author:
+        name: random_daily_subject
+    set_sticky: 1
