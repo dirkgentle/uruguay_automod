@@ -90,6 +90,9 @@
     title: [Discusión, Discusion]
     set_flair: Discusión
 ---
+    title: [NoPolitica, NoPolítica]
+    set_flair: NoPolitica
+---
     type: submission
     author:
         name: random_daily_subject
