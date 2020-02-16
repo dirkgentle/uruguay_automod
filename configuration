@@ -93,6 +93,10 @@
     title: [NoPolitica, NoPolítica]
     set_flair: NoPolitica
 ---
+    author:
+        comment_karma: "< 0"
+    action: remove
+---
     type: submission
     author:
         name: random_daily_subject
